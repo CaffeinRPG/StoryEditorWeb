@@ -1,0 +1,2 @@
+# StoryEditorWeb
+StoryEditorのストーリーを生成するためのWebパネル
